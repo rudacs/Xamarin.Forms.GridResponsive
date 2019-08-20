@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Rudá Cunha</Authors>
+    <Company>Rudá Cunha</Company>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageIconUrl></PackageIconUrl>
+    <PackageProjectUrl>https://github.com/rudacs/Xamarin.Forms.GridResponsive</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rudacs/Xamarin.Forms.GridResponsive</RepositoryUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+</Project>

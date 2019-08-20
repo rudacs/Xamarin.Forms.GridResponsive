@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.GridResponsive", "Xamarin.Forms.GridResponsive\Xamarin.Forms.GridResponsive.csproj", "{FC944384-129C-4238-98B6-0698C337E29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC944384-129C-4238-98B6-0698C337E29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC944384-129C-4238-98B6-0698C337E29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC944384-129C-4238-98B6-0698C337E29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC944384-129C-4238-98B6-0698C337E29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
